@@ -1,7 +1,6 @@
 
 <img src="images/dStationWire.png"
 alt="Markdown Monster icon"
-width=100
 style="float: left; margin-right: 10px;" />
 
 **DelayStation: Games Controller Software & Interface**
