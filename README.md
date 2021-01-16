@@ -1,6 +1,14 @@
+
+<img src="images/dStationWire.png"
+alt="Markdown Monster icon"
+width=100
+style="float: left; margin-right: 10px;" />
+
 **DelayStation: Games Controller Software & Interface**
 
---  In order to use the samples included in the repo, copy the Samples folder to Max > Contents > Resources > C74 > media .msp. Drum sample filenames should be in the form "k1"-"k6" .mp3, "s1"-"s6".mp3, "p1"-"p6".mp3, and "h1"- "h6".mp3 (for kicks, snares, percussives and hi-hats respectively) --
+--  In order to use the samples included in the repo, copy the Samples folder to Max > Contents > Resources > C74 > media > msp --
+
+-- Drum sample filenames should be in the form "k1"-"k6" .mp3, "s1"-"s6".mp3, "p1"-"p6".mp3, and "h1"- "h6".mp3 (for kicks, snares, percussives and hi-hats respectively) --
 
 -- Currently the patch requires connection of a Sony DualShock 4 controller in order to function --
 
