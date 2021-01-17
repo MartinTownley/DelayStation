@@ -11,7 +11,7 @@ style="float: left; margin-right: 10px;" />
 
 -- Currently the patch requires connection of a Sony DualShock 4 controller in order to function --
 
- -- ( Video demo: https://vimeo.com/332750759 ) --
+ [Watch the demo video here!](https://vimeo.com/332750759)
 
 This patch was created in response to a brief focussed on mapping strategies and sonification. It extracts data from a Sony DualShock 4 games controller, and uses that data to manipulate samples and synthesise sounds. It is designed as both a performative tool, and also for recording experimental sounds. Though the software utilises buttons on the controller, its most interesting output is achieved through a combination of subtle and aggressive motion gestures and joystick control.
 
